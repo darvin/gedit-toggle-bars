@@ -1,0 +1,10 @@
+[Gedit Plugin]
+Loader=python
+Module=toggle-bars
+IAge=2
+Name=Toggle bars
+Description=Toggle side and bottom bar with one button
+Authors=Sergey Klimov <dcdarv@gmail.com>
+Copyright=Copyright © 2006 Sergey Klimov <dcdarv@gmail.com>
+Website=http://www.gedit.org
+
